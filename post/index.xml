@@ -5,36 +5,35 @@
     <link>/post/</link>
     <description>Recent content in Posts on Mainroad</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <language>ru-RU</language>
     <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Basic HTML Elements</title>
-      <link>/post/basic-elements/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/post/basic-elements/</guid>
-      <description>&lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.&lt;/p&gt;</description>
+      <title>Будто в паутину угождая</title>
+      <link>/post/post3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/post3/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Произведение&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Будто в паутину угождая&#xA;Окутанный же мраком и сопя,&#xA;Высвобождения попытку принимает&#xA;Стремглав бежит он от себя&#xA;&#xA;И вроде позади, козалось бы - свободен&#xA;Но солнца луч не даст ему покоя &#xA;Начиная новый день&#xA;&#xA;Попытки будут снова &#xA;И снова борется он с ней&#xA;Пропитанная властью&#xA;Кружит косательно над ним.&#xA;&#xA;Не убежать, и спрятаться&#xA;Дозволенности - нет&#xA;&#xA;Сильно внимательно играет,&#xA;В эти игры с ней.&#xA;&#xA;Но сколько вспомнить получается,&#xA;Не первый раз охотится за ним&#xA;Момента выжидая, &#xA;набросится - когда один.&#xA;&#xA;Беспомощных ломает,&#xA;А с одинокими - она хитрей.&#xA;Пронизывающе коснется со спины,&#xA;И правило жестоко говорит:&#xA;&#xA;&amp;#34;Будь ты живым, обступлен мною будешь.&#xA;Но стоит мне найти в тебе изъян,&#xA;Как в пыль сотрешься тут же&amp;#34;,&#xA;И вот напуганный ты шагом быстрым&#xA;почти бежа - стремишься вдаль.&#xA;&#xA;Поищет человека рядом,&#xA;Опорных плеч,&#xA;Но кои руки бы поклал - он не найдет&#xA;Ведь все начертано им всем всем,&#xA;&amp;#34;Бежать, оглядываться - ждать&amp;#34;..&#xA;&#xA;И вот он первый света луч,&#xA;Ну чтож, до вечера - дыши.&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Эссе chat-gpt&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Example article title2345678</title>
-      <link>/post/my-first-post/</link>
-      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/post/my-first-post/</guid>
-      <description></description>
+      <title>Зачем чудит?</title>
+      <link>/post/post4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/post4/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Произведение&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Зачем чудит?  &#xA;Почем мне знать!&#xA;Я лишь второй пилот,&#xA;Всего лишь номер два.&#xA;&#xA;Я не несу ответу,&#xA;И проношусь через года.&#xA;Я наблюдая - понял,&#xA;Я лишь смотрю всегда.&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Эссе chat-gpt&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;</description>
     </item>
     <item>
-      <title>(Hu)go Template Primer</title>
-      <link>/post/hugo-template-primer/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>/post/hugo-template-primer/</guid>
-      <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt; &lt;a href=&#34;https://golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for&#xA;its template engine. It is an extremely lightweight engine that provides a very&#xA;small amount of logic. In our experience that it is just the right amount of&#xA;logic to be able to create a good static website. If you have used other&#xA;template systems from different languages or frameworks you will find a lot of&#xA;similarities in Go templates.&lt;/p&gt;</description>
+      <title>Мой дар - поклятья тень</title>
+      <link>/post/post1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/post1/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Произведение&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Мой дар - проклятья тень&#xA;Ты будь внимательнеее впредь&#xA;Я имея слабый стержень - обижаю иногда&#xA;И приговор посему - прозвучит без суда&#xA;&#xA;Весенним седьмым часом&#xA;День заступит на неделю&#xA;С тобой не пользуюсь компасом&#xA;Тянусь к тебе, хоть права не имею.&#xA;&#xA;И вот решаюсь я тебя забыть&#xA;Ведь я осужден мною.&#xA;Хочу с ладоней смыть ошибки&#xA;И с чистого начала слыть любовью&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Эссе chat-gpt&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;</description>
     </item>
     <item>
-      <title>Getting Started with Hugo</title>
-      <link>/post/getting-started-with-hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>/post/getting-started-with-hugo/</guid>
-      <description>&lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;&#xA;&lt;p&gt;Go to &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;Hugo releases&lt;/a&gt; and download the&#xA;appropriate version for your OS and architecture.&lt;/p&gt;&#xA;&lt;p&gt;Save it somewhere specific as we will be using it in the next step.&lt;/p&gt;&#xA;&lt;p&gt;More complete instructions are available at &lt;a href=&#34;https://gohugo.io/getting-started/installing/&#34;&gt;Install Hugo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;step-2-build-the-docs&#34;&gt;Step 2. Build the Docs&lt;/h2&gt;&#xA;&lt;p&gt;Hugo has its own example site which happens to also be the documentation site&#xA;you are reading right now.&lt;/p&gt;&#xA;&lt;p&gt;Follow the following steps:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Clone the &lt;a href=&#34;https://github.com/spf13/hugo&#34;&gt;Hugo repository&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Go into the repo&lt;/li&gt;&#xA;&lt;li&gt;Run hugo in server mode and build the docs&lt;/li&gt;&#xA;&lt;li&gt;Open your browser to http://localhost:1313&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Corresponding pseudo commands:&lt;/p&gt;</description>
+      <title>Якорь был поднят</title>
+      <link>/post/post2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/post2/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Произведение&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Якорь был поднят, попутного ветра&#xA;Я буду скучать, незримо, до лета.&#xA;Великолепием соезмерима ей ярчайшая звезда&#xA;Что блещет ночью - освещая города.&#xA;&#xA;И что предпринимать мне дальше?&#xA;Быть может мне похитить твой билет?&#xA;Иль все же сердце закалить&#xA;Хоть и страшусь с него я лёд заполучить.&#xA;&#xA;Оберегать ее! - вот мой завет.&#xA;&#xA;И окунаюсь с головой я снова в это,&#xA;И действа разум мне отяготят.&#xA;Тоскливо пискнет в сердце -  и не раз,&#xA;Защем в груди, боюсь упасть&#xA;&#xA;Мне правда жаль &#xA;И честно больно&#xA;Свершать поступки гада&#xA;- колокольно&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Эссе chat-gpt&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mainroad</title>
-    <link>/</link>
-    <description>Recent content on Mainroad</description>
+    <title>Стихотворение on Mainroad</title>
+    <link>/categories/%D1%81%D1%82%D0%B8%D1%85%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5/</link>
+    <description>Recent content in Стихотворение on Mainroad</description>
     <generator>Hugo</generator>
     <language>ru-RU</language>
-    <lastBuildDate>Thu, 01 Jan 1970 03:33:44 +0300</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Главная</title>
-      <link>/docs/me/</link>
-      <pubDate>Thu, 01 Jan 1970 03:33:44 +0300</pubDate>
-      <guid>/docs/me/</guid>
-      <description>&lt;p&gt;Welcome to the Mainroad theme documentation. This quick start guide covers Mainroad theme installation and minimal&#xA;configuration and is intended for intermediate to advanced users. To understand this guide, you need to be familiar&#xA;with the &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;</description>
-    </item>
+    <atom:link href="/categories/%D1%81%D1%82%D0%B8%D1%85%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Будто в паутину угождая</title>
       <link>/post/post3/</link>
