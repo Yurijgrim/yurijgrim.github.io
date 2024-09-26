@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anime on Mainroad</title>
+    <link>/categories/anime/</link>
+    <description>Recent content in Anime on Mainroad</description>
+    <generator>Hugo</generator>
+    <language>ru-RU</language>
+    <atom:link href="/categories/anime/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Picture 1</title>
+      <link>/post/post_pic_anime_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/post_pic_anime_1/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/post6/i1.jpg&#34; alt=&#34;linnk&#34;&gt;&#xA;&lt;img src=&#34;/post6/i4.jpg&#34; alt=&#34;linnk&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title>Picture 2</title>
+      <link>/post/post_pic_anime_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/post_pic_anime_2/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/post6/i2.jpg&#34; alt=&#34;linnk&#34;&gt;&#xA;&lt;img src=&#34;/post6/i3.jpg&#34; alt=&#34;linnk&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title>Picture 3</title>
+      <link>/post/post_pic_anime_3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/post_pic_anime_3/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/post6/i5.jpg&#34; alt=&#34;linnk&#34;&gt;&#xA;&lt;img src=&#34;/post6/i6.jpg&#34; alt=&#34;linnk&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title>Picture 4</title>
+      <link>/post/post_pic_anime_4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/post_pic_anime_4/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/post6/i7.jpg&#34; alt=&#34;linnk&#34;&gt;&#xA;&lt;img src=&#34;/post6/i8.jpg&#34; alt=&#34;linnk&#34;&gt;&#xA;&lt;img src=&#34;/post6/i9.jpg&#34; alt=&#34;linnk&#34;&gt;&#xA;&lt;img src=&#34;/post6/i10.jpg&#34; alt=&#34;linnk&#34;&gt;&#xA;&lt;img src=&#34;/post6/i11.jpg&#34; alt=&#34;linnk&#34;&gt;&#xA;&lt;img src=&#34;/post6/i12.jpg&#34; alt=&#34;linnk&#34;&gt;&#xA;&lt;img src=&#34;/post6/i13.jpg&#34; alt=&#34;linnk&#34;&gt;&#xA;&lt;img src=&#34;/post6/i14.jpg&#34; alt=&#34;linnk&#34;&gt;&#xA;&lt;img src=&#34;/post6/i15.jpg&#34; alt=&#34;linnk&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title>Picture 5</title>
+      <link>/post/post_pic_anime_5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/post_pic_anime_5/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/post6/i8.jpg&#34; alt=&#34;linnk&#34;&gt;&#xA;&lt;img src=&#34;/post6/i9.jpg&#34; alt=&#34;linnk&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title>Picture 6</title>
+      <link>/post/post_pic_anime_6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/post_pic_anime_6/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/post6/i11.jpg&#34; alt=&#34;linnk&#34;&gt;&#xA;&lt;img src=&#34;/post6/i14.jpg&#34; alt=&#34;linnk&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title>Picture 7</title>
+      <link>/post/post_pic_anime_7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/post_pic_anime_7/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/post6/i13.jpg&#34; alt=&#34;linnk&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+  </channel>
+</rss>
