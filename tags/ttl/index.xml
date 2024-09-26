@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TTL on Mainroad</title>
+    <link>/tags/ttl/</link>
+    <description>Recent content in TTL on Mainroad</description>
+    <generator>Hugo</generator>
+    <language>ru-RU</language>
+    <atom:link href="/tags/ttl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Смена TTL на os Linux (Ubuntu)</title>
+      <link>/post/post_code_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/post_code_1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Пример фрагмента кода&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;string=`ping -c 1 127.0.0.1 | grep ttl`&#xA;&#xA;if [[ $string == *&amp;#34;64 байта из 127.0.0.1: icmp_seq=1 ttl=64&amp;#34;*]; тогда&#xA;  echo &amp;#34;ПРЕДУПРЕЖДЕНИЕ: TTL = 64&amp;#34;&#xA;  echo &amp;#34;Пароль для установленного значения 65&amp;#34;  &#xA; sudo sysctl net.ipv4.ip_default_ttl=65 &#xA;fi&#xA;&#xA;if [[ $string == *&amp;#34;64 байта из 127.0.0.1: icmp_seq=1 ttl=65&amp;#34;* ]]; тогда&#xA;  echo &amp;#34;ПРЕДУПРЕЖДЕНИЕ: TTL = 65&amp;#34;&#xA;fi&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Скопируй репозиторий командой&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git clone https://github.com/YuranIgnatenko/ttl_65&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&#34;/code_1/i1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;*&lt;a href=&#34;https://github.com/YuranIgnatenko/ttl_65&#34;&gt;Открыть исходный код&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

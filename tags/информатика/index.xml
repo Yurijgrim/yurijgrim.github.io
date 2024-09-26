@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Информатика on Mainroad</title>
+    <link>/tags/%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/</link>
+    <description>Recent content in Информатика on Mainroad</description>
+    <generator>Hugo</generator>
+    <language>ru-RU</language>
+    <atom:link href="/tags/%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CUI package на Golang</title>
+      <link>/post/post_code_3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/post_code_3/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;h1 id=&#34;card&#34;&gt;Card&lt;/h1&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;8♠|7♦|D♥|T♣|T♦|2♥|4♥|8♠|7♦|D♥|T♣|T♦|10♥|4♥|&#xA; ___   ___   ___   ___   ___   ___   ___  &#xA;|8  | |7  | |D  | |T  | |T  | |9  | |4  | &#xA;| ♠ | | ♦ | | ♥ | | ♣ | | ♦ | | ♥ | | ♥ | &#xA;|__8| |__7| |__D| |__T| |__T| |__9| |__4|&#xA;♦ ♠ ♥ ♣ ♦ ♠ ♥ ♣ ♦ ♠ ♥ ♣ ♦ ♠ ♥ ♣ ♦ ♠ ♥ ♣ ♦ &#xA;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;&#xA;&lt;p&gt;Module for simulate Card&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Компьютерное зрение.</title>
+      <link>/post/post_code_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/post_code_2/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Назначение&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Алгоритм р  аботы&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Скопируй репозиторий командой&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git clone https://github.com/YuranIgnatenko/opencv_meter  &#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&#34;/code_2/i1.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/code_2/i2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/YuranIgnatenko/opencv_meter&#34;&gt;Открыть исходный код&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Смена TTL на os Linux (Ubuntu)</title>
+      <link>/post/post_code_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/post_code_1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Пример фрагмента кода&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;string=`ping -c 1 127.0.0.1 | grep ttl`&#xA;&#xA;if [[ $string == *&amp;#34;64 байта из 127.0.0.1: icmp_seq=1 ttl=64&amp;#34;*]; тогда&#xA;  echo &amp;#34;ПРЕДУПРЕЖДЕНИЕ: TTL = 64&amp;#34;&#xA;  echo &amp;#34;Пароль для установленного значения 65&amp;#34;  &#xA; sudo sysctl net.ipv4.ip_default_ttl=65 &#xA;fi&#xA;&#xA;if [[ $string == *&amp;#34;64 байта из 127.0.0.1: icmp_seq=1 ttl=65&amp;#34;* ]]; тогда&#xA;  echo &amp;#34;ПРЕДУПРЕЖДЕНИЕ: TTL = 65&amp;#34;&#xA;fi&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Скопируй репозиторий командой&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git clone https://github.com/YuranIgnatenko/ttl_65&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&#34;/code_1/i1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;*&lt;a href=&#34;https://github.com/YuranIgnatenko/ttl_65&#34;&gt;Открыть исходный код&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

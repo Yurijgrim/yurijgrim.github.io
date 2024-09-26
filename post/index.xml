@@ -8,6 +8,13 @@
     <language>ru-RU</language>
     <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>CUI package на Golang</title>
+      <link>/post/post_code_3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/post_code_3/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;h1 id=&#34;card&#34;&gt;Card&lt;/h1&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;8♠|7♦|D♥|T♣|T♦|2♥|4♥|8♠|7♦|D♥|T♣|T♦|10♥|4♥|&#xA; ___   ___   ___   ___   ___   ___   ___  &#xA;|8  | |7  | |D  | |T  | |T  | |9  | |4  | &#xA;| ♠ | | ♦ | | ♥ | | ♣ | | ♦ | | ♥ | | ♥ | &#xA;|__8| |__7| |__D| |__T| |__T| |__9| |__4|&#xA;♦ ♠ ♥ ♣ ♦ ♠ ♥ ♣ ♦ ♠ ♥ ♣ ♦ ♠ ♥ ♣ ♦ ♠ ♥ ♣ ♦ &#xA;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;&#xA;&lt;p&gt;Module for simulate Card&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>TOP обои</title>
       <link>/post/post6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -34,6 +41,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/post/post4/</guid>
       <description>&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Произведение&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Зачем чудит?  &#xA;Почем мне знать!&#xA;Я лишь второй пилот,&#xA;Всего лишь номер два.&#xA;&#xA;Я не несу ответу,&#xA;И проношусь через года.&#xA;Я наблюдая - понял,&#xA;Я лишь смотрю всегда.&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Эссе chat-gpt&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title>Компьютерное зрение.</title>
+      <link>/post/post_code_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/post_code_2/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Назначение&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Алгоритм р  аботы&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Скопируй репозиторий командой&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git clone https://github.com/YuranIgnatenko/opencv_meter  &#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&#34;/code_2/i1.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/code_2/i2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/YuranIgnatenko/opencv_meter&#34;&gt;Открыть исходный код&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Крапива.</title>
@@ -97,6 +111,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/post/post_old_blog_8/</guid>
       <description>&lt;hr&gt;&#xA;&lt;p&gt;Он увязался следом.  Снова эти картинки, образы того что может произойти, он шел очень быстрым шагом пытаясь догнать пьяного мужчину и попутно пытаясь завести разговор на отстранненую тему..&#xA;Остановившись у посадки за домами на окраине деревни , мужчина растегнул ремень и стащив его с пояса продел конец его в бляшку и вскинув голову принялся выбирать сук по крепче. Набросившись со слезами мальчишка обхватил его обе ноги руками не давая шагнуть..&#xA;Чуть позже вернувшись домой и уснув глубокой ночью, мальчишка был разбужен по утру , мужчина стоял лишь в нижнем белье спиной к кровати и укладывал вещи на стол, снимая два кольца и крестик на цепочке окинул взглядом проходящую под потолком трубу от батареи..&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Смена TTL на os Linux (Ubuntu)</title>
+      <link>/post/post_code_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/post_code_1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Пример фрагмента кода&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;string=`ping -c 1 127.0.0.1 | grep ttl`&#xA;&#xA;if [[ $string == *&amp;#34;64 байта из 127.0.0.1: icmp_seq=1 ttl=64&amp;#34;*]; тогда&#xA;  echo &amp;#34;ПРЕДУПРЕЖДЕНИЕ: TTL = 64&amp;#34;&#xA;  echo &amp;#34;Пароль для установленного значения 65&amp;#34;  &#xA; sudo sysctl net.ipv4.ip_default_ttl=65 &#xA;fi&#xA;&#xA;if [[ $string == *&amp;#34;64 байта из 127.0.0.1: icmp_seq=1 ttl=65&amp;#34;* ]]; тогда&#xA;  echo &amp;#34;ПРЕДУПРЕЖДЕНИЕ: TTL = 65&amp;#34;&#xA;fi&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Скопируй репозиторий командой&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git clone https://github.com/YuranIgnatenko/ttl_65&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&#34;/code_1/i1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;*&lt;a href=&#34;https://github.com/YuranIgnatenko/ttl_65&#34;&gt;Открыть исходный код&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Список книг.</title>
