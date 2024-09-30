@@ -47,52 +47,61 @@
 	
 	<header class="list__header">
 		<h2 class="list__title post__title">
-			<a href="/post/post_code_5/" rel="bookmark">
-			Пользовательские виджеты (python3 &#43; tkinter)
+			<a href="/post/post_code_2/" rel="bookmark">
+			Компьютерное зрение и работа с датчиком температуры.
 			</a>
 		</h2>
 		
 	</header>
 	<div class="content list__excerpt post__content clearfix">
 		<blockquote>
-<p>Оригинал видео с канала автора</p>
+<p>Описание</p>
 </blockquote>
-<pre tabindex="0"><code>Кастомные виджеты, 
-список видео с демонстрацией
-</code></pre><p><a href="https://www.youtube.com/watch?v=_A3U31JrxZw">ссылка на демо для просмотра*</a></p>
-<p><a href="https://github.com/Yurijgrim/python_custom_widgets_tk">ссылка на исходный код*</a></p>
-<p><img src="/code_4/i1.jpg" alt=""></p>
+<pre tabindex="0"><code>Распознавание показаний на датчике температуры
+и вывод результата в консоль и дашборд-график 
+</code></pre><h2 id="ссылка-на-демо-для-просмотраhttpsyoutubeay9ze9ews4osivyso9cyfm9s8otjc"><img src="/code_2/i1.jpg" alt="">
+<a href="https://youtu.be/AY9ZE9EWS4o?si=vYso9CyFm9s8otjC">ссылка на демо для просмотра*</a></h2>
+<h2 id="ссылка-на-исходный-код-lite-версияhttpsgithubcomyuranignatenkoopencv_meter"><img src="/code_2/i2.jpg" alt="">
+<a href="https://github.com/YuranIgnatenko/opencv_meter">ссылка на исходный код (lite-версия)*</a></h2>
+<h2 id="ссылка-на-исходный-код-dashboard-версияhttpsgithubcomyuranignatenkodash_meter"><img src="/code_2/i3.jpg" alt="">
+<a href="https://github.com/YuranIgnatenko/dash_meter">ссылка на исходный код (dashboard-версия)*</a></h2>
 <hr>
 <blockquote>
-<p>Запустить</p>
+<p>Установка зависимостей python</p>
 </blockquote>
-<pre tabindex="0"><code>Все разом
-</code></pre><p><img src="/code_4/i2.jpg" alt=""></p>
-<hr>
-<blockquote>
-<p>Быстрый старт</p>
-</blockquote>
-<pre tabindex="0"><code>from tkinter import *
-root = Tk()
-lb1, lb2 = WgtLabel().create(root, &#39;x1 :&#39;, &#39;8.9008f&#39;, 10, 10) # return Label,Label
-WgtLabel().create(root, &#39;x2 :&#39;, &#39;8.9002f&#39;, 10, 10) # return Label,Label
-root.mainloop()
+<pre tabindex="0"><code>pip3 install plotly
+pip3 install pandas
+pip3 install openpyxl
+pip3 install dash
+pip3 install cv2
 </code></pre><hr>
 <blockquote>
-<p>Аргументы для вызова конструктора</p>
+<p>Настройка через переменные в коде</p>
 </blockquote>
-<pre tabindex="0"><code>&lt;LABEL_OBJECT&gt;.create(root, &#39;x1 :&#39;, &#39;8.9008f&#39;, 10, 10)
-def create(self, win, text1, text2, x, y, w=200, h=48, font_size=20): &lt;...&gt; 
+<pre tabindex="0"><code>file: dash_meter/config.py
+ PREFIX_FOLDER_IMG = &#34;assets&#34; # path directory images
+ NAME_DB_VALUES = &#34;test.xlsx&#34; # plug-in table
+
+file: dash_meter/frontend/view.py
+ FILENAME_BANNER_IMAGE = &#34;img.jpg&#34; # path image for banner
+
+file: dash_meter/script_generate_xlsx.py
+ COUNT_RECORDS = 200 # number rows in new table
+ PREFIX_RANDOM_IMG = &#34;image_random_&#34; # generate_random_xlsx()
+ NAME_FILE_RANDOM = &#34;test.xlsx&#34; # generate_random_xlsx()
+ NAME_FILE_SORTED = &#34;test.xlsx&#34; # sorted_xlsx_dates()
+ NAME_FILE_IMAGES = &#34;assets.xlsx&#34; # for generate_from_image(YOUR_PATH)
+    
 </code></pre><hr>
 <blockquote>
-<p>Список объектов-виджетов</p>
+<p>Запуск</p>
 	</div>
 </article>
 </main>
 
 <div class="pagination">
 	<a class="pagination__item pagination__item--prev btn" href="/tags/code/page/3/">«</a>
-	<span class="pagination__item pagination__item--current">4/5</span>
+	<span class="pagination__item pagination__item--current">4/6</span>
 	<a class="pagination__item pagination__item--next btn" href="/tags/code/page/5/">»</a>
 </div>
 
@@ -102,7 +111,7 @@ def create(self, win, text1, text2, x, y, w=200, h=48, font_size=20): &lt;...&gt
 <div class="widget-taglist widget">
 	<h4 class="widget__title">Tags</h4>
 	<div class="widget__content">
-		<a class="widget-taglist__link widget__link btn" href="/tags/code/" title="CODE">CODE (5)</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/code/" title="CODE">CODE (6)</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/old-blog/" title="OLD BLOG">OLD BLOG (11)</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/poema/" title="Poema">Poema (4)</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/r365/" title="R365">R365 (4)</a>
@@ -119,7 +128,7 @@ def create(self, win, text1, text2, x, y, w=200, h=48, font_size=20): &lt;...&gt
 				</li>
 			<li class="widget__item">
 				<a class="widget__link" href="/categories/%D0%BA%D0%BE%D0%B4/">Код</a>&nbsp;
-				<span class="widget__counter widget__counter--bubble">5</span>
+				<span class="widget__counter widget__counter--bubble">6</span>
 				</li>
 			<li class="widget__item">
 				<a class="widget__link" href="/categories/%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B8/">Рисунки</a>&nbsp;
@@ -132,7 +141,7 @@ def create(self, win, text1, text2, x, y, w=200, h=48, font_size=20): &lt;...&gt
 	<h4 class="widget__title">Recent Posts</h4>
 	<div class="widget__content">
 		<ul class="widget__list">
-			<li class="widget__item"><a class="widget__link" href="/post/post_code_3/">CUI package на Golang</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/post_code_6/">Osint TG. Парсим online telegram</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/post_pic_anime_1/">Picture 1</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/post_pic_anime_2/">Picture 2</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/post_pic_anime_3/">Picture 3</a></li>

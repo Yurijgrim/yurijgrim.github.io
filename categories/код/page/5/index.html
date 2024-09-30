@@ -47,42 +47,53 @@
 	
 	<header class="list__header">
 		<h2 class="list__title post__title">
-			<a href="/post/post_code_1/" rel="bookmark">
-			Смена TTL на os Linux (Ubuntu)
+			<a href="/post/post_code_5/" rel="bookmark">
+			Пользовательские виджеты (python3 &#43; tkinter)
 			</a>
 		</h2>
 		
 	</header>
 	<div class="content list__excerpt post__content clearfix">
 		<blockquote>
-<p>Пример фрагмента кода</p>
+<p>Оригинал видео с канала автора</p>
 </blockquote>
-<pre tabindex="0"><code>string=`ping -c 1 127.0.0.1 | grep ttl`
-
-if [[ $string == *&#34;64 байта из 127.0.0.1: icmp_seq=1 ttl=64&#34;*]; тогда
-  echo &#34;ПРЕДУПРЕЖДЕНИЕ: TTL = 64&#34;
-  echo &#34;Пароль для установленного значения 65&#34;  
- sudo sysctl net.ipv4.ip_default_ttl=65 
-fi
-
-if [[ $string == *&#34;64 байта из 127.0.0.1: icmp_seq=1 ttl=65&#34;* ]]; тогда
-  echo &#34;ПРЕДУПРЕЖДЕНИЕ: TTL = 65&#34;
-fi
+<pre tabindex="0"><code>Кастомные виджеты, 
+список видео с демонстрацией
+</code></pre><p><a href="https://www.youtube.com/watch?v=_A3U31JrxZw">ссылка на демо для просмотра*</a></p>
+<p><a href="https://github.com/Yurijgrim/python_custom_widgets_tk">ссылка на исходный код*</a></p>
+<p><img src="/code_4/i1.jpg" alt=""></p>
+<hr>
+<blockquote>
+<p>Запустить</p>
+</blockquote>
+<pre tabindex="0"><code>Все разом
+</code></pre><p><img src="/code_4/i2.jpg" alt=""></p>
+<hr>
+<blockquote>
+<p>Быстрый старт</p>
+</blockquote>
+<pre tabindex="0"><code>from tkinter import *
+root = Tk()
+lb1, lb2 = WgtLabel().create(root, &#39;x1 :&#39;, &#39;8.9008f&#39;, 10, 10) # return Label,Label
+WgtLabel().create(root, &#39;x2 :&#39;, &#39;8.9002f&#39;, 10, 10) # return Label,Label
+root.mainloop()
 </code></pre><hr>
 <blockquote>
-<p>Скопируй репозиторий командой</p>
+<p>Аргументы для вызова конструктора</p>
 </blockquote>
-<pre tabindex="0"><code>git clone https://github.com/YuranIgnatenko/ttl_65
-</code></pre><p><img src="/code_1/i1.jpg" alt=""></p>
-<hr>
-<p>*<a href="https://github.com/YuranIgnatenko/ttl_65">Открыть исходный код</a></p>
+<pre tabindex="0"><code>&lt;LABEL_OBJECT&gt;.create(root, &#39;x1 :&#39;, &#39;8.9008f&#39;, 10, 10)
+def create(self, win, text1, text2, x, y, w=200, h=48, font_size=20): &lt;...&gt; 
+</code></pre><hr>
+<blockquote>
+<p>Список объектов-виджетов</p>
 	</div>
 </article>
 </main>
 
 <div class="pagination">
 	<a class="pagination__item pagination__item--prev btn" href="/categories/%D0%BA%D0%BE%D0%B4/page/4/">«</a>
-	<span class="pagination__item pagination__item--current">5/5</span>
+	<span class="pagination__item pagination__item--current">5/6</span>
+	<a class="pagination__item pagination__item--next btn" href="/categories/%D0%BA%D0%BE%D0%B4/page/6/">»</a>
 </div>
 
 			</div>
@@ -91,7 +102,7 @@ fi
 <div class="widget-taglist widget">
 	<h4 class="widget__title">Tags</h4>
 	<div class="widget__content">
-		<a class="widget-taglist__link widget__link btn" href="/tags/code/" title="CODE">CODE (5)</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/code/" title="CODE">CODE (6)</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/old-blog/" title="OLD BLOG">OLD BLOG (11)</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/poema/" title="Poema">Poema (4)</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/r365/" title="R365">R365 (4)</a>
@@ -108,7 +119,7 @@ fi
 				</li>
 			<li class="widget__item">
 				<a class="widget__link" href="/categories/%D0%BA%D0%BE%D0%B4/">Код</a>&nbsp;
-				<span class="widget__counter widget__counter--bubble">5</span>
+				<span class="widget__counter widget__counter--bubble">6</span>
 				</li>
 			<li class="widget__item">
 				<a class="widget__link" href="/categories/%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B8/">Рисунки</a>&nbsp;
@@ -121,7 +132,7 @@ fi
 	<h4 class="widget__title">Recent Posts</h4>
 	<div class="widget__content">
 		<ul class="widget__list">
-			<li class="widget__item"><a class="widget__link" href="/post/post_code_3/">CUI package на Golang</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/post_code_6/">Osint TG. Парсим online telegram</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/post_pic_anime_1/">Picture 1</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/post_pic_anime_2/">Picture 2</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/post_pic_anime_3/">Picture 3</a></li>

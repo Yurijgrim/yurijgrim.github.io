@@ -3,9 +3,9 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Компьютерное зрение. - Mainroad</title>
+	<title>Компьютерное зрение и работа с датчиком температуры. - Mainroad</title>
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
-	<meta name="description" content="Программа распознования датчика.">
+	<meta name="description" content="">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
 	<link rel="dns-prefetch" href="//fonts.gstatic.com">
@@ -42,28 +42,57 @@
 <main class="main" role="main">
 	<article class="post">
 		<header class="post__header">
-			<h1 class="post__title">Компьютерное зрение.</h1>
+			<h1 class="post__title">Компьютерное зрение и работа с датчиком температуры.</h1>
 			
 		</header>
 		<div class="content post__content clearfix">
 			<blockquote>
-<p>Назначение</p>
+<p>Описание</p>
 </blockquote>
-<pre tabindex="0"><code></code></pre><hr>
-<blockquote>
-<p>Алгоритм р  аботы</p>
-</blockquote>
-<pre tabindex="0"><code></code></pre><hr>
-<blockquote>
-<p>Скопируй репозиторий командой</p>
-</blockquote>
-<pre tabindex="0"><code>git clone https://github.com/YuranIgnatenko/opencv_meter  
-</code></pre><p><img src="/code_2/i1.jpg" alt="">
-<img src="/code_2/i2.jpg" alt=""></p>
+<pre tabindex="0"><code>Распознавание показаний на датчике температуры
+и вывод результата в консоль и дашборд-график 
+</code></pre><h2 id="ссылка-на-демо-для-просмотраhttpsyoutubeay9ze9ews4osivyso9cyfm9s8otjc"><img src="/code_2/i1.jpg" alt="">
+<a href="https://youtu.be/AY9ZE9EWS4o?si=vYso9CyFm9s8otjC">ссылка на демо для просмотра*</a></h2>
+<h2 id="ссылка-на-исходный-код-lite-версияhttpsgithubcomyuranignatenkoopencv_meter"><img src="/code_2/i2.jpg" alt="">
+<a href="https://github.com/YuranIgnatenko/opencv_meter">ссылка на исходный код (lite-версия)*</a></h2>
+<h2 id="ссылка-на-исходный-код-dashboard-версияhttpsgithubcomyuranignatenkodash_meter"><img src="/code_2/i3.jpg" alt="">
+<a href="https://github.com/YuranIgnatenko/dash_meter">ссылка на исходный код (dashboard-версия)*</a></h2>
 <hr>
-<ul>
-<li><a href="https://github.com/YuranIgnatenko/opencv_meter">Открыть исходный код</a></li>
-</ul>
+<blockquote>
+<p>Установка зависимостей python</p>
+</blockquote>
+<pre tabindex="0"><code>pip3 install plotly
+pip3 install pandas
+pip3 install openpyxl
+pip3 install dash
+pip3 install cv2
+</code></pre><hr>
+<blockquote>
+<p>Настройка через переменные в коде</p>
+</blockquote>
+<pre tabindex="0"><code>file: dash_meter/config.py
+ PREFIX_FOLDER_IMG = &#34;assets&#34; # path directory images
+ NAME_DB_VALUES = &#34;test.xlsx&#34; # plug-in table
+
+file: dash_meter/frontend/view.py
+ FILENAME_BANNER_IMAGE = &#34;img.jpg&#34; # path image for banner
+
+file: dash_meter/script_generate_xlsx.py
+ COUNT_RECORDS = 200 # number rows in new table
+ PREFIX_RANDOM_IMG = &#34;image_random_&#34; # generate_random_xlsx()
+ NAME_FILE_RANDOM = &#34;test.xlsx&#34; # generate_random_xlsx()
+ NAME_FILE_SORTED = &#34;test.xlsx&#34; # sorted_xlsx_dates()
+ NAME_FILE_IMAGES = &#34;assets.xlsx&#34; # for generate_from_image(YOUR_PATH)
+    
+</code></pre><hr>
+<blockquote>
+<p>Запуск</p>
+</blockquote>
+<pre tabindex="0"><code>cd dash_meter
+python3 main.py # Run server and all program
+python3 script_generate_xlsx.py # Run generate table xlsx
+</code></pre><hr>
+<hr>
 
 		</div>
 		<footer class="post__footer">
@@ -88,7 +117,7 @@
 <div class="widget-taglist widget">
 	<h4 class="widget__title">Tags</h4>
 	<div class="widget__content">
-		<a class="widget-taglist__link widget__link btn" href="/tags/code/" title="CODE">CODE (5)</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/code/" title="CODE">CODE (6)</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/old-blog/" title="OLD BLOG">OLD BLOG (11)</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/poema/" title="Poema">Poema (4)</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/r365/" title="R365">R365 (4)</a>
@@ -105,7 +134,7 @@
 				</li>
 			<li class="widget__item">
 				<a class="widget__link" href="/categories/%D0%BA%D0%BE%D0%B4/">Код</a>&nbsp;
-				<span class="widget__counter widget__counter--bubble">5</span>
+				<span class="widget__counter widget__counter--bubble">6</span>
 				</li>
 			<li class="widget__item">
 				<a class="widget__link" href="/categories/%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B8/">Рисунки</a>&nbsp;
@@ -118,7 +147,7 @@
 	<h4 class="widget__title">Recent Posts</h4>
 	<div class="widget__content">
 		<ul class="widget__list">
-			<li class="widget__item"><a class="widget__link" href="/post/post_code_3/">CUI package на Golang</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/post_code_6/">Osint TG. Парсим online telegram</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/post_pic_anime_1/">Picture 1</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/post_pic_anime_2/">Picture 2</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/post_pic_anime_3/">Picture 3</a></li>
